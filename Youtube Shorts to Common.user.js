@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Youtube Shorts to Common
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/5hiny44/Youtube-Shorts-to-Common
 // @version      1.0
 // @encoding     utf-8
 // @description  When you click on the 'Youtube Shorts' page, a script will be automatically called to redirect you to the common version of the page.
