@@ -2,11 +2,14 @@
 // @name         Youtube Shorts to Common
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  Youtube Short to Common UI.
-// @author       You
-// @match        https://www.youtube.com/*
+// @encoding     utf-8
+// @description  When you click on the 'Youtube Shorts' page, a script will be automatically called to redirect you to the common version of the page.
+// @author       Xavier Hsiao
+// @match        https://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.js
+// @updateURL    https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.js
 // ==/UserScript==
 
 // 1.打開shorts頁面時，能自動跳轉至一般頁面。
