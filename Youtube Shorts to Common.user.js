@@ -8,8 +8,8 @@
 // @match        https://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.js
-// @updateURL    https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.js
+// @downloadURL  https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.user.js
+// @updateURL    https://raw.githubusercontent.com/5hiny44/Youtube-Shorts-to-Common/main/Youtube%20Shorts%20to%20Common.user.js
 // ==/UserScript==
 
 // 1.打開shorts頁面時，能自動跳轉至一般頁面。
